@@ -1,0 +1,18 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body, ul, p{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: arial;
+}
+
+input, select, textarea {
+    border: solid 0.5px #333;
+    outline:0;
+}
