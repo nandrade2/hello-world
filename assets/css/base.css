@@ -91,3 +91,36 @@ li.active a{
 .active
 background: #333;
 color:#f4f4f4*/
+
+
+/*
+.green {
+
+    Color: greenyellow;
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.green -              seletor CSS
+color: greenyellow; - declaração CSS
+color -               Propriedade CSS
+greenyellow -         valor de uma propriedade CSS
+Todo o conjunto -     Bloco CSS
+*/
+
+main span.color {
+
+    Color: greenyellow;
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.bloco {
+    /*border: solid 0.5px blue;*/
+    width: 50%;
+    height: 40vh;
+    overflow: auto;
+    margin: 5% auto;
+    padding: 2%;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 2)
+}

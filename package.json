@@ -17,5 +17,16 @@
     "bootstrap": "^4.3.1",
     "browser-sync": "^2.26.7",
     "jquery": "^3.4.1"
-  }
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.10.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandrade2/hello-world.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nandrade2/hello-world/issues"
+  },
+  "homepage": "https://github.com/nandrade2/hello-world#readme"
 }
